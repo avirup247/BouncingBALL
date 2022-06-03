@@ -38,3 +38,15 @@ h1{
     font-size:40px;
     visibility:visible;
 }
+
+button{
+    color:black;
+    position: fixed;
+    background-color: rgb(255, 60, 0);
+    transform: translate(-60%,-50%);
+    left: 40%;
+    bottom: 10%;
+    font-size:40px;
+    margin: 50px;
+    
+}
