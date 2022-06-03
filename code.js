@@ -3,6 +3,7 @@ var ball=document.getElementById("ball");
 var y=400;
 var v=-1;
 var g=-0.0098;
+
 //variables for the cactus
 var cactus= document.getElementById("cactus");
 var cac_x = 1000;
