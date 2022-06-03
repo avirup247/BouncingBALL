@@ -22,8 +22,9 @@ document.body.onkeydown=function(e){
        
     }
 }
+var loop;
 function game(){
-    var loop=setInterval(function(){
+    loop=setInterval(function(){
     y=y+v;
     v=v+g;
     cac_x=cac_x+cac_v;
