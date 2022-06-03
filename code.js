@@ -67,3 +67,11 @@ function game(){
     }
 
 }
+function cl(){
+if(loop==null){
+game();
+}
+audio.play();
+      y=1;
+      v=2;
+}
